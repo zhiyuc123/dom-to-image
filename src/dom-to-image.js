@@ -15,6 +15,7 @@
     };
 
     var domtoimage = {
+        toCanvas: draw,
         toSvg: toSvg,
         toPng: toPng,
         toJpeg: toJpeg,
