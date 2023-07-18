@@ -1,5 +1,13 @@
 # DOM to Image
 
+forked from [dmapper/dom-to-image](https://github.com/dmapper/dom-to-image) which adds great features on the origin repo. And publish it to **npm registry**.
+
+```
+npm install --save @zhiyuc123/dom-to-image
+```
+
+---
+
 [![Build Status](https://travis-ci.org/tsayen/dom-to-image.svg?branch=master)](https://travis-ci.org/tsayen/dom-to-image)
 
 ## What is it
